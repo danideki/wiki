@@ -2,7 +2,7 @@
 title: Recados Gerais
 description: Página para visitantes
 published: true
-date: 2020-08-13T19:29:44.857Z
+date: 2020-08-21T23:13:43.920Z
 tags: 
 editor: undefined
 ---
