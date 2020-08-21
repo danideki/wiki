@@ -2,10 +2,10 @@
 title: README
 description: 
 published: true
-date: 2020-08-21T23:19:23.436Z
+date: 2020-08-21T23:45:17.575Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
-# wiki
-ola mundo 
+# wiki 
+teste do git
