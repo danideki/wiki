@@ -2,7 +2,7 @@
 title: Diretoria
 description: 
 published: true
-date: 2020-08-21T23:13:39.297Z
+date: 2020-08-21T23:18:51.313Z
 tags: 
 editor: undefined
 ---
